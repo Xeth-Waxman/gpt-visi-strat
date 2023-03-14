@@ -6,3 +6,16 @@ __Initial Prompt:__
 
 __what you'll need to pip:__
 pip install pandas yfinance numpy matplotlib backtrader
+
+# Conclusion
+Wow! ChatGPT-4 is __way__ better than ChatGPT-3.5! Even with the slower responses, and the response limit, I was able to get the application created faster than before, because of the vast reduction in errors; while the model still struggles with arrays and dataframes, it is about 80% beter. Instead of having to coach it through 20 errors, I had to coach it through 2, even though this use case was a significant step-up in sophistication and challenge.
+
+ChatGPT-5 is going to be AMAZEBALLS. 
+
+Please don't use this application to trade.
+
+[Apple Performance](strategy_performance_AAPL.png)
+[Google Performance](strategy_performance_GOOG.png)
+[Microsoft Performance](strategy_performance_MSFT.png)
+[IBM Performance](strategy_performance_IBM.png)
+[LPL Financial Performance](strategy_performance_LPLA.png)
