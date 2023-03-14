@@ -3,3 +3,6 @@ Continuing our exploration of ChatGPT's ability to generate code, this time by c
 
 __Initial Prompt:__
 > Write a python application that takes in a list of stocks, then conducts backtesting of those stocks against several different well-known trading strategies using historical end of day data from yahoo finance's APIs. After completing the backtesting, generate a graph of the strategies performance over time.
+
+__what you'll need to pip:__
+pip install pandas yfinance numpy matplotlib backtrader
