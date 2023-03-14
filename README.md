@@ -15,7 +15,11 @@ ChatGPT-5 is going to be AMAZEBALLS.
 Please don't use this application to trade.
 
 [Apple Performance](strategy_performance_AAPL.png)
+
 [Google Performance](strategy_performance_GOOG.png)
+
 [Microsoft Performance](strategy_performance_MSFT.png)
+
 [IBM Performance](strategy_performance_IBM.png)
+
 [LPL Financial Performance](strategy_performance_LPLA.png)
